@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido como parte da **Aula 6** da Mentoria 2.0 do Júlio de Lima. A proposta foi criar uma função de busca por CPF e validá-la com testes automatizados utilizando **Mocha**.
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ![estrutura_projeto](https://github.com/user-attachments/assets/02ea81b3-8e4f-43a2-9066-782300de6940)
 
