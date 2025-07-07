@@ -3,10 +3,12 @@
 Este projeto foi desenvolvido como parte da **Aula 6** da Mentoria 2.0 do Júlio de Lima. A proposta foi criar uma função de busca por CPF e validá-la com testes automatizados utilizando **Mocha**.
 
 ## 📁 Estrutura do Projeto
-![image](https://github.com/user-attachments/assets/a1bfc5c4-e34a-4eaf-b8c1-9bc7db17d04c)
+
+![estrutura_projeto](https://github.com/user-attachments/assets/02ea81b3-8e4f-43a2-9066-782300de6940)
 
 
-## 🚀 Passo a passo da criação do projeto
+
+## Passo a passo da criação do projeto
 
 1. Abrir o **Visual Studio Code**
 2. Criar a pasta do projeto: `exercicio-aula6`
@@ -31,12 +33,10 @@ Este projeto foi desenvolvido como parte da **Aula 6** da Mentoria 2.0 do Júlio
 15. Rodar os testes no terminal com:
     npm test
     
-🧪 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 Node.js
 
 Mocha
-
-Este exercício foi desenvolvido como parte da Mentoria 2.0 do Júlio de Lima, em 05/07/2025.
 
 ![image](https://github.com/user-attachments/assets/71b3f1bc-a7f2-481f-b4ae-dc68faa723cd)
